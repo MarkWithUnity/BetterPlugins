@@ -2,7 +2,7 @@
  * @name Notification Sounds
  * @author MarkWithUnity
  * @authorId 278543574059057155
- * @version 3.7.5
+ * @version 1.0
  * @description Кастомные звуки в дискорде
  */
 
